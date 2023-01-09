@@ -1,2 +1,1 @@
-# C
-c공부
+# seughuikim
